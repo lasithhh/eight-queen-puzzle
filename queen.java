@@ -1,4 +1,4 @@
-public class EightQueens {
+public class EIGHTQUEENS {
   public static void main(String args[]) {
     int N = 8;
     int[][] board = new int[N][N];
